@@ -2,6 +2,8 @@
 
 This repository contains a sample to draw custom shapes on [Syncfusion Flutter Chart](https://help.syncfusion.com/flutter/cartesian-charts/getting-started) widget.
 
+Please refer through this Blog [link](https://www.syncfusion.com/blogs/post/draw-custom-shapes-in-flutter-charts).
+
 ## Syncfusion widgets
 
 This project used the following Syncfusion widget(s):
